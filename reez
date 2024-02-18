@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>To Aiko</title>
+</head>
+<body>
+
+		<button onclick"doSomething()" style"background
+
+		<p id="test">Hi Love</p>
+
+		<script>
+			function doSomething(){
+				document.getElemetById("test").innerH
+			}
+		</script>
+</body>
+</html>
